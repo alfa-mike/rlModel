@@ -4,7 +4,7 @@
 Consider the Taxi Domain problem that involves controlling a taxi agent that can pick up and drop passengers in a grid world. model this problem as a sequential decision-making problem to implement two algorithms for finding a good policy. the algorithms are - 
 * Dynamic programming (offline learning) -  model the taxi domain as a Markov Decision Process (MDP) and compute optimal policy for the taxi agent using value-iteration and policy iteration algorithms.
 * Reinforcement learning methods (online learning) - incorporate RL (Q and SARSA learning) on an unknown taxi domain MDP where the transition model and the reward model is not known to the taxi agent. In this case, the taxi must act only based on its past experience. \
->  **_NOTE_ : ** complete problem statement is given in file named 'ProblemStatement'.
+>  **_NOTE :_** complete problem statement is given in file named 'ProblemStatement'.
 
 
 #### `Implementation`
