@@ -10,7 +10,7 @@ __complete problem statement is given in file named 'ProblemStatement'.__
 #### `Implementation`
 * Formulated a MDP Model for sequential decision making for given 5x5 and 10x10 grid type taxi domain.
 * Implemented Value-Iteration and Policy Iteration and found optimal policy using convergence of Policy iteration.
-* Incorporated diferent learning Model like Q-Learning and SARSA on an unknown taxi domain for fnding Optimal Policy
+* Incorporated diferent learning Model like Q-Learning and SARSA on an unknown taxi domain for finding Optimal Policy
 
 
 
